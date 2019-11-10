@@ -1,0 +1,88 @@
+#header-top{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+#header-top nav{
+	margin-top: 13px;
+}
+#header-top nav ul{
+	list-style: none; padding-left: 0;
+}
+#header-top nav ul li{
+	display: inline-block;
+}
+#header-top nav ul li a{
+	text-decoration: none; color: #181818; font-size: 15px; padding: 0px 25px ; border-right: 2px solid #181818;font-family: 'PT Sans', 'sans-serif';
+
+} 
+#header-top nav ul li:last-child a{
+padding-right: 0; border-right: none;
+}
+#header-top nav ul li a:hover, .menu-activo
+{
+	color:#181818;
+}
+#buscador-header{
+	margin-top: 16px;
+}
+#see-our-work{
+	background: #e2e7ed;
+
+	padding-top: 40px;
+	padding-bottom: 10px;
+}
+#see-our-work h1{
+ color: #ffffff;
+}
+#see-our-work nav{
+	margin-top: -5px;
+}
+#see-our-work nav ul
+{
+	list-style: none; padding: 0px 20px;
+}
+#see-our-work nav ul li
+{
+	display: inline-block;
+	color:#ffffff;
+	list-style: none;
+	font-size: 15px;
+	padding: 20px;
+}
+#Web-Development{
+	background: #ffffff;
+	overflow:auto;
+	padding-top: 60px;
+	padding-bottom: 70px;
+	font-family: 'PT Sans', sans-serif;
+}
+#Web-Development p{
+	padding-top: 12px;
+	font-size: 12pt;
+	color: #000000;
+	font-family: 'PT Sans', sans-serif;
+
+}
+#Web-Development h2{
+color: #222222;
+padding-top:10px;
+padding-bottom: 10px;
+}
+#Identity-Branding{
+	background: #fafafa;
+	overflow:auto;
+	padding-top: 60px;
+	padding-bottom: 70px;
+	font-family: 'PT Sans', sans-serif;
+}
+#Identity-Branding h2{
+color: #222222;
+padding-top:10px;
+padding-bottom: 10px;
+}
+#Identity-Branding p{
+	padding-top: 12px;
+	font-size: 12pt;
+	color: #000000;
+	font-family: 'PT Sans', sans-serif;
+}
