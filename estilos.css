@@ -72,7 +72,7 @@ padding-bottom: 10px;
 	background: #fafafa;
 	overflow:auto;
 	padding-top: 60px;
-	padding-bottom: 70px;
+	padding-bottom: 100px;
 	font-family: 'PT Sans', sans-serif;
 }
 #Identity-Branding h2{
@@ -82,7 +82,7 @@ padding-bottom: 10px;
 }
 #Identity-Branding p{
 	padding-top: 12px;
-	font-size: 12pt;
+	font-size: 11pt;
 	color: #000000;
 	font-family: 'PT Sans', sans-serif;
 }
